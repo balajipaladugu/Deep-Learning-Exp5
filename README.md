@@ -1,4 +1,4 @@
-[[# Deep-Learning-Exp5
+# Deep-Learning-Exp5
 
 DL-Implement a Recurrent Neural Network model for stock price prediction.
 
